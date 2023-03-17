@@ -1,10 +1,10 @@
 # League Skeleton
 
-[![Latest Version](https://img.shields.io/github/release/thephpleague/skeleton.svg?style=flat-square)](https://github.com/thephpleague/skeleton/releases)
+[![Latest Version](https://img.shields.io/github/release/getcohesive/marketplace_sdk_php.svg?style=flat-square)](https://github.com/getcohesive/marketplace_sdk_php/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/thephpleague/skeleton/master.svg?style=flat-square)](https://travis-ci.org/thephpleague/skeleton)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/thephpleague/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/skeleton/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/thephpleague/skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/skeleton)
+[![Build Status](https://img.shields.io/travis/getcohesive/marketplace_sdk_php/master.svg?style=flat-square)](https://travis-ci.org/getcohesive/marketplace_sdk_php)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/getcohesive/marketplace_sdk_php.svg?style=flat-square)](https://scrutinizer-ci.com/g/getcohesive/marketplace_sdk_php/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/getcohesive/marketplace_sdk_php.svg?style=flat-square)](https://scrutinizer-ci.com/g/getcohesive/marketplace_sdk_php)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/league/skeleton)
 
 
@@ -39,12 +39,12 @@ $ phpunit
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/thephpleague/:package_name/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/getcohesive/marketplace_sdk_php/blob/master/CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [:author_name](https://github.com/:author_username)
-- [All Contributors](https://github.com/thephpleague/:package_name/contributors)
+- [:author_name](https://github.com/:cohesive-chinmayrelkar)
+- [All Contributors](https://github.com/getcohesive/marketplace_sdk_php/contributors)
 
 ## License
 
