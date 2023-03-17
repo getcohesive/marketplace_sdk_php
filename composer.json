@@ -1,0 +1,41 @@
+{
+    "name": "cohesive/sdk",
+    "description": "A PHP SDK to build apps for the Cohesive Marketplace",
+    "keywords": [
+        "cohesive",
+        "marketplace"
+    ],
+    "homepage": "https://github.com/getcohesive/marketplace_sdk_php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chinmay Relkar",
+            "email": "chinmay@cohesive.so",
+            "homepage": "http://cohesive.so",
+            "role": "Engineer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.4",
+        "ext-json": "*",
+        "firebase/php-jwt": "^6.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cohesive\\SDK\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Cohesive\\SDK\\Test\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
